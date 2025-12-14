@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Redis02SpringbootApplication {
 
     public static void main(String[] args) {
+
+        System.out.println("second commit!");
         SpringApplication.run(Redis02SpringbootApplication.class, args);
     }
 
