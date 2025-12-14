@@ -13,6 +13,7 @@ public class Redis02SpringbootApplication {
         System.out.println("hot-fix second commit!!!");
         System.out.println("master commit!!!");
         System.out.println("push test!!!");
+        System.out.println("pull test!!!");
         SpringApplication.run(Redis02SpringbootApplication.class, args);
     }
 
